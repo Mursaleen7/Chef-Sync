@@ -1,4 +1,4 @@
-Database Details:
+### Database Details (SQL Project):
 
 Filename: recipe_manager.db
 
